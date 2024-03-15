@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private":"true",
   "description": "backend for password reset",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
   },
